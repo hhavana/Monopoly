@@ -1,3 +1,4 @@
+//Great GUI!
 package gui;
 
 import MonopolyClient.MainClient;
